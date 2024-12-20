@@ -23,6 +23,15 @@
 
 ---
 
+
+## Screenshots
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img src="https://imgur.com/pspUvJB.png" alt="Image 1" style="width: 45%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://imgur.com/md0K2pL.png" alt="Image 2" style="width: 45%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://imgur.com/7QguBoi.png" alt="Image 3" style="width: 45%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <img src="https://imgur.com/EYVgpUo.png" alt="Image 4" style="width: 45%; height: auto; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+
 ## 📂 Cấu Trúc Thư Mục
 
 ```
