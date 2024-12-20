@@ -86,7 +86,7 @@ Web_Travel/
 
 Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ:
 
-- **Email**: [your-email@example.com](mailto:xoandevavel
+- **Email**: [xoandev163@gmail.com](mailto:xoandev163@gmail.com)
 
 **Web_Travel** là một website du lịch cung cấp thông tin về các gói du lịch, địa điểm tham quan và cho phép người dùng đặt tour dễ dàng. Dự án này sử dụng các công nghệ web phổ biến như PHP, JavaScript, HTML và CSS để xây dựng một trải nghiệm người dùng thân thiện và hiệu quả.
 
