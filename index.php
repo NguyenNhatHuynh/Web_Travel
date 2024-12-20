@@ -151,7 +151,7 @@
                 </div>
 
                 <div class="content">
-                    <h3>Chuyến Phiêu Lưu</h3>
+                    <h3>Các hoạt động vui chơi</h3>
                     <p>Các Bạn Cứ Việc Hạnh Phúc Hậu Cần Để Chúng Tôi Lo!</p>
                     <a href="book.php" class="btn">đặt bây giờ</a>
                 </div>
@@ -163,7 +163,7 @@
                 </div>
 
                 <div class="content">
-                    <h3>Chuyến Phiêu Lưu</h3>
+                    <h3>leo núi</h3>
                     <p>Các Bạn Cứ Việc Hạnh Phúc Hậu Cần Để Chúng Tôi Lo!</p>
                     <a href="book.php" class="btn">đặt bây giờ</a>
                 </div>
@@ -175,7 +175,7 @@
                 </div>
 
                 <div class="content">
-                    <h3>Chuyến Phiêu Lưu</h3>
+                    <h3>lửa trại</h3>
                     <p>Các Bạn Cứ Việc Hạnh Phúc Hậu Cần Để Chúng Tôi Lo!</p>
                     <a href="book.php" class="btn">đặt bây giờ</a>
                 </div>
